@@ -1,4 +1,4 @@
-# Bzlmod lockfile
+cd.# Bzlmod lockfile
 MODULE.bazel.lock
 # Ignore all bazel-* symlinks.
 /bazel-*
